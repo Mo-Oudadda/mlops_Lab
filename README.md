@@ -1,4 +1,3 @@
 # Git_Lab
 
-Pour le 1er laboratoire du cours de MlOps, nous travaillons sur Git et Github.com
-1 ere modification sur nouvalle branche dev-mo
+Pour le 1er laboratoire du cours de MlOps, nous travaillons sur Git et Github.fr

@@ -1,3 +1,6 @@
-# Git_Lab
+# MLOPS Labs
 
-MLOPS Labs
+- Git and Github
+- Unit testing in Python
+- Automating model testing with GitHub Actions
+- Data versioning with DVC and Git

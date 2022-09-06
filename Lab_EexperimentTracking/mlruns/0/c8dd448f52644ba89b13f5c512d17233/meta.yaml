@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mooud/Desktop/Git_Lab/Lab_EexperimentTracking/mlruns/0/c8dd448f52644ba89b13f5c512d17233/artifacts
+end_time: 1662470481559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c8dd448f52644ba89b13f5c512d17233
+run_uuid: c8dd448f52644ba89b13f5c512d17233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662470476686
+status: 3
+tags: []
+user_id: mooud

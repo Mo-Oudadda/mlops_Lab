@@ -1,4 +1,4 @@
-# MLOPS Labs
+# MLOPS Class Labs
 
 - Git and Github
 - Unit testing in Python

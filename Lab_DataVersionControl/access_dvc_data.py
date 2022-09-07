@@ -4,7 +4,7 @@ import dvc.api
 
 path='Lab_DataVersionControl/data/wine_original.csv'
 repo='https://github.com/Mo-Oudadda/mlops_Lab'
-version = 'v1'
+version = 'v4'
 
 data_url = dvc.api.get_url(
   path=path,

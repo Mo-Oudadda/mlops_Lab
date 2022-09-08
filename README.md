@@ -6,4 +6,4 @@
 - Data versioning with DVC and Git
 - Eexperiment Tracking : Wine quality predition model training and tracking with MLflow
 - Deployement : Wine quality predition app with Flask and Heroku 
-    > https://the-good-wine.herokuapp.com/
+     https://the-good-wine.herokuapp.com/
